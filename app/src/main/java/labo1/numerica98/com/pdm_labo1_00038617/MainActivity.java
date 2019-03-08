@@ -2,7 +2,7 @@ package labo1.numerica98.com.pdm_labo1_00038617;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//Luisa Arevalo 00038617
 public class MainActivity extends AppCompatActivity {
 
     @Override
